@@ -48,26 +48,22 @@ As a whole, our goal with this unit was to provide students with both the techni
 | 1-30-19  | Dataframe operations, Scatter Plots, Histograms, Probability          | ANES                                                   | 
 | 2-4-19  | Empirical Distributions and Hypothesis Testing                        | ANES                                                   | 
 | 2-6-19  | Bootstrap and Confidence Intervals                                    | ANES| 
-| 2-11-19 | Regression Models                                                      | ANES
-    | 
-| 2-13-19   | Mapping with Folium                                                  | us-states.json, US Unemployment October 2012           | 
-| 2-20-19  | Folium: Choropleth Maps                                               | us-states.json, US Unemployment October 2012           | 
-| 2-25-19  | Folium: Heat Maps + Time                                              | us-states.json, US Unemployment October 2012           | 
-| 2-27-19  | Folium Plugins                                                        | us-states.json, US Unemployment October 2012  
-    | 
-| 3-4-19  | Intro to Numpy/Scipy                                                   | None
-    | 
-| 3-6-19  | Intro to Regression and the Test-Train-Validation Split               | Bike Sharing                                           | 
-| 3-11-19  | Model Selection and Cross Validation                                  | Bike Sharing                                           | 
-| 3-13-19  | Feature Selection                                                     | Bike Sharing                                           | 
-| 3-18-10   | Text Preprocessing : Stemming, Chunking, Tokenizing                   | UN General Assembly Transcripts                        | 
-| 3-20-19  | Exploratory Data Analysis                                             | 
-     | 
-| 4-1-19   | Introduction to Text Analysis : Document-Term Matrix                  | UN General Assembly Transcript                         | 
-| 4-3-19  | Web Scraping and XML Parsing                                          | Old Bailey Online Corpus                               | 
-| 4-8-19  | Regular Expressions                                                   | Old Bailey Online Corpus                               | 
-| 4-10-19  | TF-IDF and Classification: Naive Bayes, Multinomial Logistic, SVM     | Stack Exchange Queries                                 | 
-| 4-15-19  | Exploratory Data Analysis: Feature Extraction, Visualizations, PCA    | 2016 US Presidential Campaign Speeches                 | 
+| 2-11-19 | Regression Models                                                      | ANES| 
+| 2-13-19   | Mapping with Folium                                                  | us-states.json, US Unemployment October 2012      | 
+| 2-20-19  | Folium: Choropleth Maps                                               | us-states.json, US Unemployment October 2012      | 
+| 2-25-19  | Folium: Heat Maps + Time                                              | us-states.json, US Unemployment October 2012      | 
+| 2-27-19  | Folium Plugins                                                        | us-states.json, US Unemployment October 2012  | 
+| 3-4-19  | Intro to Numpy/Scipy                                                   | None| 
+| 3-6-19  | Intro to Regression and the Test-Train-Validation Split               | Bike Sharing                                       | 
+| 3-11-19  | Model Selection and Cross Validation                                  | Bike Sharing                                      | 
+| 3-13-19  | Feature Selection                                                     | Bike Sharing                                      | 
+| 3-18-10   | Text Preprocessing : Stemming, Chunking, Tokenizing                   | UN General Assembly Transcripts                  | 
+| 3-20-19  | Exploratory Data Analysis                                             | | 
+| 4-1-19   | Introduction to Text Analysis : Document-Term Matrix                  | UN General Assembly Transcript                    | 
+| 4-3-19  | Web Scraping and XML Parsing                                          | Old Bailey Online Corpus                           | 
+| 4-8-19  | Regular Expressions                                                   | Old Bailey Online Corpus                           | 
+| 4-10-19  | TF-IDF and Classification: Naive Bayes, Multinomial Logistic, SVM     | Stack Exchange Queries                            | 
+| 4-15-19  | Exploratory Data Analysis: Feature Extraction, Visualizations, PCA    | 2016 US Presidential Campaign Speeches            | 
 | 4-17-19   | Neural Nets: Multi-Layered Perceptron, Convolutional Neural Netowkrs  | MNIST                                                  | 
 | 4-22-19   | Word2Vec and Word Embeddings                                          | UN General Debate Transcripts                          | 
 | 4-24-19  | Topic Modeling: Latent Dirichlet Analysis in Gensim and Scikit-learn  | UN General Debate Transcripts                          | 
