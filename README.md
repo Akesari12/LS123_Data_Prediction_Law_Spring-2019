@@ -47,8 +47,7 @@ As a whole, our goal with this unit was to provide students with both the techni
 | 1-28-19  | Anaconda Setup                                                        | American National Election Study (ANES)                              | 
 | 1-30-19  | Dataframe operations, Scatter Plots, Histograms, Probability          | ANES                                                   | 
 | 2-4-19  | Empirical Distributions and Hypothesis Testing                        | ANES                                                   | 
-| 2-6-19  | Bootstrap and Confidence Intervals                                    | ANES
-    | 
+| 2-6-19  | Bootstrap and Confidence Intervals                                    | ANES| 
 | 2-11-19 | Regression Models                                                      | ANES
     | 
 | 2-13-19   | Mapping with Folium                                                  | us-states.json, US Unemployment October 2012           | 
