@@ -40,6 +40,12 @@ As a whole, our goal with this unit was to provide students with both the techni
 
 ## Law as Text as Data
 
+Our final unit turns to utilizing natural language processing techniques to analyze law. Perhaps moreso than other social science and humanities disciplines, law is uniquely concerned with the role of texts. Attorneys file briefs, judges write decisions, politicians debate legislation, and regulators write new rules that the public comments on. All of these activities generate ample source of text, and are ripe for exploration and study by legal scholars and data scientists. We motivate this unit by giving students the fundamentals of the role of text in legal studies, as well as the basic tools from natural language processing.
+
+Our primary data source for labs and problem sets in this unit is the Proceedings of the Old Bailey. The Old Bailey is England's criminal court, and the proceedings run from 1674-1913. They provide a rich source of data to explore the origins of the common law system, as well as trace developments in the evolution of the English language.
+
+We cover a variety NLP techniques to give students a broad exposure to the variety of tools and approaches that they can use for their own projects. We emphasize featurization techniques such as tf-idf and word2vec. Extending on the last unit's introduction to machine learning, we introduce classification algorithms and have students use featurized text to predict document classes. We briefly explore topic modeling as a way to introduce unsupervised techniques.
+
 ## Lab Plan
 
 | Lab Date | Summary                                                               | Data                                                   | 
@@ -64,7 +70,7 @@ As a whole, our goal with this unit was to provide students with both the techni
 | 4-8-19  | Regular Expressions                                                   | Old Bailey Online Corpus                           | 
 | 4-10-19  | TF-IDF and Classification: Naive Bayes, Multinomial Logistic, SVM     | Stack Exchange Queries                            | 
 | 4-15-19  | Exploratory Data Analysis: Feature Extraction, Visualizations, PCA    | 2016 US Presidential Campaign Speeches            | 
-| 4-17-19   | Neural Nets: Multi-Layered Perceptron, Convolutional Neural Netowkrs  | MNIST                                                  | 
+| 4-17-19   | Neural Nets: Multi-Layered Perceptron, Convolutional Neural Networks  | MNIST                                                  | 
 | 4-22-19   | Word2Vec and Word Embeddings                                          | UN General Debate Transcripts                          | 
 | 4-24-19  | Topic Modeling: Latent Dirichlet Analysis in Gensim and Scikit-learn  | UN General Debate Transcripts                          | 
 | 4-29-19  | Text Analysis: Sentiment, Morality, Non-Negative Matrix Factorization | Old Bailey Online Corpus                               | 
